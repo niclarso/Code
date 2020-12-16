@@ -1,7 +1,6 @@
 ---
 title: "Research Census Data"
 author: "Nick Larson"
-date: "September 22, 2017"
 output:
   word_document: default
   pdf_document: default
